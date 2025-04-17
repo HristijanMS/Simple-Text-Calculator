@@ -1,2 +1,2 @@
 # Simple-Text-Calculator
-Simple calculator which can calculate quadratic equations
+Simple calculator which can calculate quadratic equations.
